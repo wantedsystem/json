@@ -1,0 +1,68 @@
+{
+  "name": "Plume Token List",
+  "logoURI": "",
+  "timestamp": "2024-03-26T12:00:00.000Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "PLUME",
+      "symbol": "PLUME",
+      "decimals": 18,
+      "chainId": 98866,
+      "address": "0x0000000000000000000000000000000000000000",
+      "logoURI": ""
+    },
+    {
+      "name": "pUSD",
+      "symbol": "pUSD",
+      "decimals": 18,
+      "chainId": 98866,
+      "address": "0xdddD73F5Df1F0DC31373357beAC77545dC5A6f3F",
+      "logoURI": ""
+    },
+    {
+      "name": "nRWA",
+      "symbol": "nRWA",
+      "decimals": 18,
+      "chainId": 98866,
+      "address": "0x11a8d8694b656112d9a94285223772F4aAd269fc",
+      "logoURI": ""
+    },
+    {
+      "name": "nTBILL",
+      "symbol": "nTBILL",
+      "decimals": 18,
+      "chainId": 98866,
+      "address": "0xe72fe64840f4ef80e3ec73a1c749491b5c938cb9",
+      "logoURI": ""
+    },
+    {
+      "name": "nYIELD",
+      "symbol": "nYIELD",
+      "decimals": 18,
+      "chainId": 98866,
+      "address": "0x892dff5257b39f7afb7803dd7c81e8ecdb6af3e8",
+      "logoURI": ""
+    },
+    {
+      "name": "nUSDY",
+      "symbol": "nUSDY",
+      "decimals": 18,
+      "chainId": 98866,
+      "address": "0x7fca0df900a11ae1d17338134a9e079a7ee87e31",
+      "logoURI": ""
+    },
+    {
+      "name": "nELIXIR",
+      "symbol": "nELIXIR",
+      "decimals": 18,
+      "chainId": 98866,
+      "address": "0x9fbC367B9Bb966a2A537989817A088AFCaFFDC4c",
+      "logoURI": ""
+    }
+  ]
+}
